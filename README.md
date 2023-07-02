@@ -1,1 +1,1 @@
-# projeto destinado a recriação do site  wikepedia
+#projeto destinado a recriação do site wikepedia
